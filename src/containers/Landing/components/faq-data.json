@@ -1,0 +1,33 @@
+[
+  {
+    "question": "What is an admin and dashboard template?",
+    "answer": "It is a Front-end kit with prebuilt UI components for the creation of the interface for the web apps. It contains HTML, CSS, and JavaScript code. You can use it to create an admin console and dashboards."
+  }, {
+    "question": "Why do I need EasyDev?",
+    "answer": "Using templates saves you time and money because you don’t need to design and code the front-end part from scratch. So it allows you to get up and run your project faster and easier. Also, it contains a few useful ready-to-use integrations and apps. You can use them as an example to build your own or implement them directly into your project.\nEasyDev has a good structure and code hence fits well for learning purposes."
+  }, {
+    "question": "What skills do I need to have to use EasyDev?",
+    "answer": "EasyDev is a React-based template. To use it efficiently general knowledge of Front-end development is required. You might need more in-depth skills in React to customize components. Also, keep in mind that the template is not contains the back-end. To make an end-product you need to have knowledge or help with the back-end part."
+  }, {
+    "question": "Do you provide any design frames?",
+    "answer": "Yes. You will find the link to the Figma frames. You can copy the frames, and customize them as you want in your Figma-project."
+  }, {
+    "question": "Is this landing page a part of the EasyDev template?",
+    "answer": "Yes. And you are free to use it. However, please remember, if you use it for commercial products you need to buy an Extended license."
+  }, {
+    "question": "What’s the difference between regular and extended licenses?",
+    "answer": "The regular license can be used for non-commercial end products (access is free and there will be no monthly subscription fee). You need to buy a new single regular license for each product you make or each domain you use if you set up it on multiple domains. An extended license can be used for end products (web service or SaaS) that charge users for access or service (e.g: monthly subscription fee). For more info on Themeforest licenses, you can check http://themeforest.net/licenses/standard?license=regular."
+  }, {
+    "question": "Can a custom license be issued upon request?",
+    "answer": "To discuss a possible custom license for your project, please contact us at product@aspirity.com."
+  }, {
+    "question": "What support policy do you offer?",
+    "answer": "Our support mainly covers pre-sale questions, basic theme questions and bug reports through our support email: product@aspirity.com. Also, you can join our discord server https://discord.gg/8aJkBc8gFN to get the help directly from devs and the community."
+  }, {
+    "question": "What are the support operating hours and response time?",
+    "answer": "Our support operates Monday – Friday. The support response time is 24-48 hours. Normally we settle the questions as earlier as possible (in less than 24 hours)."
+  }, {
+    "question": "What is not covered by your support?",
+    "answer": "EasyDev theme support only covers front-end issues and development. All back-end integration and development issues (e.g: php, .net, mysql, java, etc) are not covered by our support since the backend implementation is the responsibility of buyers.\nWhen you send a support request please describe your issue in detail. To provide you with more accurate guidelines and advice please provide a link to your developing site or a piece of code. Customers are always welcome to ask for feature requests and give suggestions that can improve our template. All feature requests will be considered and the new features will be released with upcoming releases. We do not support individual customization requests, but we tend to advise and show direction on customization requests that customers ask. To make a custom development request contact us at hi@aspirity.com."
+  }
+]

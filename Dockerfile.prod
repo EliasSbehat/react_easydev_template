@@ -1,0 +1,13 @@
+FROM node:14 as build-stage
+
+WORKDIR /easydev
+COPY /template/package.json /template/yarn.lock ./
+RUN yarn install --frozen-lockfile
+
+COPY /template .
+RUN yarn build
+
+FROM nginx as production-stage
+RUN mkdir -p /app/easydev
+COPY --from=build-stage /easydev/build /app/easydev
+COPY /template/nginx.conf /etc/nginx/nginx.conf

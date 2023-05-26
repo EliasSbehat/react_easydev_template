@@ -1,0 +1,760 @@
+[
+  {
+    "version": "4.2.0",
+    "date": "17-February-2023",
+    "changes": [
+      {
+        "name": "Libraries updates",
+        "changes": []
+      },
+      {
+        "name": "Other",
+        "changes": [
+          {
+            "name": "Console warnings fixed"
+          },
+          {
+            "name": "Few more bugs fixed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "4.0.0",
+    "date": "12-July-2022",
+    "changes": [
+      {
+        "name": "The template fully migrated to Bootstrap 5",
+        "changes": []
+      },
+      {
+        "name": "New Landing Page",
+        "changes": []
+      },
+      {
+        "name": "Authorization",
+        "changes": [
+          {
+            "name": "Metamask integration added"
+          }
+        ]
+      },
+      {
+        "name": "Dashboards",
+        "changes": [
+          {
+            "name": "Finance dashboard is fully functional now",
+            "changes": [
+              { "name": "CoinMarketCap integration" },
+              { "name": "CoinCap integration" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "changes": [
+          { "name": "scss replaced with styled-components" },
+          { "name": "reactstrap replaced with react-bootstrap" },
+          { "name": "Console warnings fixed" },
+          { "name": "Few more bugs fixed" }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "3.7.0",
+    "date": "26-October-2021",
+    "changes": [
+      {
+        "name": "Authorization",
+        "changes": [
+          { "name": "New seed project with authorization added" },
+          { "name": "New auth0 and firebase implementations to template added" }
+        ]
+      },
+      {
+        "name": "Libraries",
+        "changes": [
+          { "name": "redux-form library was replaced with react-final-form" },
+          { "name": "recharts library was updated" },
+          { "name": "react-big-calendar library was updated" },
+          { "name": "react-select library was updated" },
+          { "name": "react-hook-form library was updated" },
+          { "name": "firebase library was updated" },
+          { "name": "node-sass library was replaced with sass" }
+        ]
+      },
+      {
+        "name": "Other",
+        "changes": [
+          { "name": "Path aliases for seeds added" },
+          { "name": "Console warnings fixed" },
+          { "name": "Few more bugs fixed" }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "3.6.0",
+    "date": "01-July-2021",
+    "changes": [
+      {
+        "name": "Components",
+        "changes": [
+          { "name": "Added table with API request" },
+          { "name": "Added new date picker" }
+        ]
+      },
+      {
+        "name": "Authorization",
+        "changes": [{ "name": "Added log in with Microsoft 365" }]
+      },
+      {
+        "name": "Libraries",
+        "changes": [{ "name": "React-Hook-Form library was updated" }]
+      },
+      {
+        "name": "Other",
+        "changes": [
+          { "name": "The issues with npm vulnerabilities resolved" },
+          { "name": "Few more bugs fixed" }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "3.5.0",
+    "date": "03-March-2020",
+    "changes": [
+      {
+        "name": "Libraries updates",
+        "changes": [
+          { "name": "React 17.0.1" },
+          { "name": "Firebase 8.2.1" },
+          { "name": "Eslint config airbnb 18.2.1" },
+          { "name": "Other libraries on actual versions" }
+        ]
+      },
+      {
+        "name": "Seed projects",
+        "changes": [
+          { "name": "Seeds rewritten via react hooks" },
+          {
+            "name": "Create React App and Redux were updated on actual versions"
+          }
+        ]
+      },
+      {
+        "name": "Colors fixed",
+        "changes": [
+          { "name": "Colors hexes replaced with same colors constants" }
+        ]
+      },
+      { "name": "React Hook Form Library was added." }
+    ]
+  },
+  {
+    "version": "3.4.0",
+    "date": "08-December-2020",
+    "changes": [
+      {
+        "name": "The whole project was rewritten via react hooks. The following folders were changed",
+        "changes": [
+          { "name": "App" },
+          { "name": "Account" },
+          { "name": "Dashboards" },
+          { "name": "Default" },
+          { "name": "E-Commerce" },
+          { "name": "Landing" },
+          { "name": "Form" },
+          { "name": "Layout" },
+          { "name": "UI" },
+          { "name": "Mail" },
+          { "name": "Tables" },
+          { "name": "Documentation" },
+          { "name": "Shared" }
+        ]
+      },
+      { "name": "Some bugs fixed." }
+    ]
+  },
+  {
+    "version": "3.3.0",
+    "date": "23-November-2020",
+    "changes": [
+      {
+        "name": "TodoApp",
+        "changes": [
+          { "name": "Improved logic." },
+          { "name": "Broken spinner fixed." },
+          { "name": "Dark mode styles fixed." }
+        ]
+      },
+      {
+        "name": "Tables",
+        "changes": [
+          { "name": "Highlight for react-tables search added." },
+          { "name": "Added more functionality to the data table Customizer." }
+        ]
+      },
+      { "name": "Some bugs fixed." }
+    ]
+  },
+  {
+    "version": "3.2.1",
+    "date": "05-November-2020",
+    "changes": [
+      { "name": "Some bugs fixed." },
+      {
+        "name": "App",
+        "changes": [
+          { "name": "Added the fake request of app configurations example." }
+        ]
+      },
+      {
+        "name": "TodoApp",
+        "changes": [{ "name": "Added new archiving logic." }]
+      },
+      {
+        "name": "Documentation",
+        "changes": [
+          { "name": "Added link to the discord server of our templates." }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "3.2.0",
+    "date": "22-October-2020",
+    "changes": [
+      { "name": "Some bugs fixed." },
+      { "name": "Dashboards renamed." },
+      { "name": "TodoApp has new logic with fake request example." },
+      {
+        "name": "Tables (They are new!)",
+        "changes": [
+          {
+            "name": "Removed react-data-grid library, we are using now react-table instead."
+          },
+          {
+            "name": "Table now can be one of 3 types: common, drag & drop and resizable."
+          },
+          {
+            "name": "Tables now has all functions you asked for: pagination, search input, sorting and ect. All you need is to set up tableConfig. Just it!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "3.1.0",
+    "date": "1-September-2020",
+    "changes": [
+      {
+        "name": "Maps",
+        "changes": [{ "name": "Added Vector Map with api request example." }]
+      }
+    ]
+  },
+  {
+    "version": "3.0.0",
+    "date": "20-July-2020",
+    "changes": [
+      {
+        "name": "Basic components in the 'shared' folder are now written via react hooks."
+      },
+      {
+        "name": "Added Docker configuration file example for production and development environment."
+      },
+      {
+        "name": "Account",
+        "changes": [{ "name": "Added 'Forgotten password' pages." }]
+      }
+    ]
+  },
+  {
+    "version": "2.5.1",
+    "date": "18-June-2020",
+    "changes": [
+      {
+        "name": "Seeds and Template projects are now based on the latest version of create-react-app (react-scripts 3.4.1 and eject command are available now!)"
+      }
+    ]
+  },
+  {
+    "version": "2.5.0",
+    "date": "21-May-2020",
+    "changes": [
+      {
+        "name": "Libraries",
+        "changes": [
+          { "name": "Unnecessary libraries removed" },
+          {
+            "name": "Updated versions of a large number of libraries",
+            "changes": [
+              { "name": "draft-js" },
+              { "name": "file-loader" },
+              { "name": "i18next" },
+              { "name": "react-i18next" },
+              { "name": "mdi-react" },
+              { "name": "polished" },
+              { "name": "rc-slider" },
+              { "name": "rc-tooltip" },
+              { "name": "react-datepicker" },
+              { "name": "react-dropzone" },
+              { "name": "react-redux" },
+              { "name": "react-router" },
+              { "name": "react-select" },
+              { "name": "react-syntax-highlighter" },
+              { "name": "reactstrap" },
+              { "name": "style-loader" },
+              { "name": "terser-webpack-plugin" },
+              { "name": "url-loader" },
+              { "name": "@babel" },
+              { "name": "css-loader" },
+              { "name": "eslint" },
+              { "name": "sass-loader" },
+              { "name": "workbox-webpack-plugin" }
+            ]
+          },
+          {
+            "name": "Files required changes due to updated libraries are renewed. See the list above."
+          }
+        ]
+      },
+      {
+        "name": "Maps",
+        "changes": [{ "name": "The vector map page is fully updated" }]
+      },
+      {
+        "name": "Default pages",
+        "changes": [
+          { "name": "The 404 page background picture size has been reduced" }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "2.4.1",
+    "date": "13-February-2020",
+    "changes": [
+      {
+        "name": "Account",
+        "changes": [
+          { "name": "Layout issues fixed" },
+          { "name": "Unclickable button on the login screen fixed" }
+        ]
+      },
+      {
+        "name": "Booking dashboard",
+        "changes": [{ "name": "403 error fixed" }]
+      },
+      {
+        "name": "Dashboard MobileApp",
+        "changes": [{ "name": "Inactive chexboxes in Safari fixed" }]
+      },
+      {
+        "name": "Dashboard Default",
+        "changes": [{ "name": "Layout issues in Fifefox fixed" }]
+      },
+      {
+        "name": "Default pages",
+        "changes": [{ "name": "Layout issues on mobile fixed" }]
+      },
+      {
+        "name": "Documentation",
+        "changes": [
+          {
+            "name": "New documentation section - Troubleshooting. Going to be supplemented"
+          }
+        ]
+      },
+      {
+        "name": "E-Commerce",
+        "changes": [{ "name": "Layout issues on mobile fixed" }]
+      },
+      {
+        "name": "Forms",
+        "changes": [
+          { "name": "Date-picker issue fixed" },
+          { "name": "Layout issues on mobile fixed" }
+        ]
+      },
+      {
+        "name": "Mail Application",
+        "changes": [{ "name": "Hover for search field and buttons added" }]
+      },
+      {
+        "name": "Menu & Topbar",
+        "changes": [
+          { "name": "Sidebar issue fixed" },
+          { "name": "Incorrect align fixed" },
+          { "name": "Notifications, mail and search added for mobiles" }
+        ]
+      },
+      {
+        "name": "Profile",
+        "changes": [
+          { "name": "Incorrect link fixed" },
+          { "name": "403 error fixed" }
+        ]
+      },
+      {
+        "name": "UI elements",
+        "changes": [{ "name": "Layout issues in the Firefox fixed" }]
+      }
+    ]
+  },
+  {
+    "version": "2.4.0",
+    "date": "23-September-2019",
+    "changes": [
+      {
+        "name": "New feature for EasyDEV - the authorization! Now you can authorize with your Firebase, Auth0, Google and Facebook accounts and even create Firebase account."
+      },
+      {
+        "name": "Account",
+        "changes": [{ "name": "Log in page fixed" }]
+      },
+      {
+        "name": "Charts",
+        "changes": [{ "name": "Layout fixed" }]
+      },
+      {
+        "name": "Documentation",
+        "changes": [
+          { "name": "Grammar mistakes fixed" },
+          { "name": "Incorrect navigation link fixed" }
+        ]
+      },
+      {
+        "name": "E-commerce",
+        "changes": [{ "name": "Mobile layout on the Payment page fixed" }]
+      },
+      {
+        "name": "Forms",
+        "changes": [
+          { "name": "Missed file attachment at Basic form fixed" },
+          { "name": "Unexpected horizontal scroll in date picker fixed" }
+        ]
+      },
+      {
+        "name": "Landing",
+        "changes": [{ "name": "Grammar mistake fixed" }]
+      },
+      {
+        "name": "Mail application",
+        "changes": [{ "name": "Layout issue fixed" }]
+      },
+      {
+        "name": "Menu & Topbar",
+        "changes": [
+          { "name": "Search overlapping Documentation on topbar fixed" },
+          {
+            "name": "Realized: loading the profile name and picture on the topbar menu after authorization"
+          }
+        ]
+      },
+      {
+        "name": "Profile",
+        "changes": [
+          { "name": "Incorrect checkboxes behavior on the Profile page fixed" },
+          { "name": "Calendar fixed" }
+        ]
+      },
+      {
+        "name": "UI elements",
+        "changes": [
+          { "name": "Grammar mistake on the Typography page fixed" },
+          { "name": "Overlayed pictures in carousel on mobile fixed" }
+        ]
+      }
+    ]
+  },
+  {
+    "version": "2.3.0",
+    "date": "15-August-2019",
+    "changes": [
+      { "name": "RTL (right to left) mode" },
+      {
+        "name": "Menu and Topbar",
+        "changes": [
+          {
+            "name": "Realized: Close search panel and language menu at click outside"
+          },
+          {
+            "name": "Realized: Close menu after a link was clicked and the user is taken to the page"
+          },
+          { "name": "Link page task added in profile menu" },
+          { "name": "Position the arrow fixed at closing third level menu" }
+        ]
+      },
+      {
+        "name": "UI Elements",
+        "changes": [
+          { "name": "Layout panels fixed" },
+          { "name": "Layout button fixed on page tooltips" }
+        ]
+      },
+      {
+        "name": "Chat application",
+        "changes": [
+          {
+            "name": "\"Type here...\" is misplaced in Chat app fixed on Safari"
+          }
+        ]
+      },
+      {
+        "name": "Default pages",
+        "changes": [
+          { "name": "Mobile layout on the project summary panel fixed" },
+          { "name": "Mobile layout on the project summary charts fixed" },
+          { "name": "Layout on the project summary panel project team fixed" }
+        ]
+      },
+      {
+        "name": "Booking dashboard",
+        "changes": [
+          { "name": "Layout markers fixed in chart" },
+          { "name": "Position hovers fixed in chart" }
+        ]
+      },
+      {
+        "name": "E-commerce",
+        "changes": [{ "name": "Grammar mistakes fixed" }]
+      },
+      {
+        "name": "Forms",
+        "changes": [
+          {
+            "name": "Unclickable \"Remember me\" checkbox fixed on form layout"
+          },
+          { "name": "Bugs in Form validation fixed" }
+        ]
+      },
+      {
+        "name": "Customizing",
+        "changes": [{ "name": "Squared border and block shadow fixed" }]
+      },
+      { "name": "Bugfixes for screen resolutions 1280x800 and 1440x900" },
+      { "name": "Bugfixes for customer's requests" }
+    ]
+  },
+  {
+    "version": "2.2.0",
+    "date": "09-August-2019",
+    "changes": [
+      { "name": "Bugfixes for screen resolution 1280x800" },
+      { "name": "Bugfixes in calendar" }
+    ]
+  },
+  {
+    "version": "2.1.4",
+    "date": "16-July-2019",
+    "changes": [
+      { "name": "Updated react-big-calendar and fixed breaking changes" },
+      { "name": "Refactored routers and added separate folders" }
+    ]
+  },
+  {
+    "version": "2.1.3",
+    "date": "05-July-2019",
+    "changes": [
+      { "name": "Updated decor images" },
+      { "name": "Fixed bug with bars click event on dashboards" }
+    ]
+  },
+  {
+    "version": "2.1.2",
+    "date": "18-June-2019",
+    "changes": [{ "name": "Changed logo" }, { "name": "Minor bug fixes" }]
+  },
+  {
+    "version": "2.1.1",
+    "date": "23-May-2019",
+    "changes": [
+      { "name": "Added Todo Application" },
+      { "name": "Minor bug fixes" }
+    ]
+  },
+  {
+    "version": "2.1.0",
+    "date": "13-May-2019",
+    "changes": [
+      { "name": "Updated node-sass for supporting Node 12" },
+      { "name": "Redesigned landing" }
+    ]
+  },
+  {
+    "version": "2.0.0",
+    "date": "12-March-2019",
+    "changes": [
+      { "name": "Updated all packages with breaking changes" },
+      { "name": "Deleted prefix 'new-' in all folders names" },
+      { "name": "Fixed all bugs, caused breaking changes dependencies" }
+    ]
+  },
+  {
+    "version": "1.6.1",
+    "date": "12-March-2019",
+    "changes": [
+      {
+        "name": "Updated all dependencies for non breaking changes versions at seed and seed-without-redux"
+      },
+      { "name": "Bug fixes at Mail and Chat Application" },
+      { "name": "Bug fixed at Tooltips & Popovers, popover on right" },
+      { "name": "Minor bug fixes" }
+    ]
+  },
+  {
+    "version": "1.6.0",
+    "date": "05-March-2019",
+    "changes": [
+      { "name": "Updated packages without breaking changes" },
+      { "name": "Minor bug fixes" }
+    ]
+  },
+  {
+    "version": "1.5.0",
+    "date": "26-February-2019",
+    "changes": [
+      { "name": "Added new Dashboard Mobile App" },
+      { "name": "Fixed pagination in Data Table" },
+      { "name": "Minor bug fixes" }
+    ]
+  },
+  {
+    "version": "1.4.1",
+    "date": "19-February-2019",
+    "changes": [
+      { "name": "Update react-select to v.2" },
+      { "name": "Added new Dashboard Booking" },
+      { "name": "Minor bug fixes" }
+    ]
+  },
+  {
+    "version": "1.4.0",
+    "date": "17-October-2018",
+    "changes": [
+      { "name": "Added a seed without redux" },
+      { "name": "Renamed containers" },
+      { "name": "Redesign TopbarSearch" },
+      { "name": "Minor bug and styles fixes" },
+      { "name": "Update packages" }
+    ]
+  },
+  {
+    "version": "1.3.7",
+    "date": "02-October-2018",
+    "changes": [{ "name": "Updated project core to latest create-react-app" }]
+  },
+  {
+    "version": "1.3.6",
+    "date": "25-September-2018",
+    "changes": [
+      { "name": "Added filter button to Material Table" },
+      { "name": "Updated landing page" },
+      { "name": "Some file structure changes" },
+      { "name": "Minor bug fixes" }
+    ]
+  },
+  {
+    "version": "1.3.5",
+    "date": "18-September-2018",
+    "changes": [
+      { "name": "Added Material Table" },
+      { "name": "Updated packages" }
+    ]
+  },
+  {
+    "version": "1.3.4",
+    "date": "07-September-2018",
+    "changes": [
+      { "name": "Redesigned Mail Application" },
+      {
+        "name": "Reworked and fixed layout: fixed sidebar highlighting and notification error in layout"
+      },
+      { "name": "Minor bug fixes" },
+      { "name": "Minor styles changes" }
+    ]
+  },
+  {
+    "version": "1.3.3",
+    "date": "23-August-2018",
+    "changes": [
+      { "name": "Added multilanguage" },
+      { "name": "Added react-hot-loader" }
+    ]
+  },
+  {
+    "version": "1.3.2",
+    "date": "03-August-2018",
+    "changes": [
+      { "name": "Redesigned Chat" },
+      { "name": "Reworked notifications" },
+      { "name": "Added welcome notification" }
+    ]
+  },
+  {
+    "version": "1.3.1",
+    "date": "20-July-2018",
+    "changes": [
+      { "name": "Updated Material-UI to v1.4.0" },
+      { "name": "Updated versions of other packages" },
+      { "name": "Added new page: Email Confirmation" },
+      { "name": "Added lists of messages and notifications to topbar" },
+      { "name": "Changed next components: TopbarProfile, Modal" },
+      { "name": "Renamed folder 'pages' to 'containers'" },
+      { "name": "Minor bug and style fixes" }
+    ]
+  },
+  {
+    "version": "1.3.0",
+    "date": "05-July-2018",
+    "changes": [{ "name": "Added seed project" }, { "name": "Minor fixes" }]
+  },
+  {
+    "version": "1.2.1",
+    "date": "25-June-2018",
+    "changes": [{ "name": "Included landing page in main files" }]
+  },
+  {
+    "version": "1.2.0",
+    "date": "20-June-2018",
+    "changes": [
+      { "name": "Changed the Timepicker from react-times to rc-time-picker" },
+      { "name": "The warning related with src/app/Router.js was fixed" },
+      {
+        "name": "Changed the structure of custom fields in src/components/form"
+      },
+      { "name": "Made the theme customizer" },
+      {
+        "name": "Excluded the topbar and sidebar to a separated folder  (/src/pages/_layout)"
+      },
+      { "name": "Top-menu is added" }
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "date": "06-June-2018",
+    "changes": [
+      { "name": "Separated the sidebar logic on mobile and desktop" },
+      { "name": "Minor bugs fixes" }
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "date": "02-June-2018",
+    "changes": [
+      { "name": "Editable tables added" },
+      { "name": "Minor bugs fixes" }
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "date": "31-May-2018",
+    "changes": [{ "name": "Initial Release" }]
+  }
+]

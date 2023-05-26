@@ -1,0 +1,20 @@
+export const CRYPTOCURRENCIES = 'BTC,ETH,DOGE,BCH';
+export const CRYPTOCURRENCIES_NAMES_COINCAP = {
+  BTC: 'bitcoin', 
+  ETH: 'ethereum',
+  DOGE: 'dogecoin', 
+  BCH: 'bitcoin-cash',
+};
+export const INTERVAL_ONE_DAY = 'd1';
+
+export const CRYPTOCURRENCIES_COINCAP = [
+  CRYPTOCURRENCIES_NAMES_COINCAP.BTC,
+  CRYPTOCURRENCIES_NAMES_COINCAP.ETH,
+  CRYPTOCURRENCIES_NAMES_COINCAP.DOGE,
+  CRYPTOCURRENCIES_NAMES_COINCAP.BCH,
+];
+
+export const COLORS_UP_DOWN = {
+  DOWN: '#df9f9f',
+  UP: '#4ce1b6',
+};
